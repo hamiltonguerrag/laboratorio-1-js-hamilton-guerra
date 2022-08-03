@@ -1,1 +1,1 @@
-# laboratorio-1-js-hamilton-guerra
+# proyecto_integrador_sql_bravo
