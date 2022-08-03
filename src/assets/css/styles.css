@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+html,
+body {
+  margin: 0px;
+  background-image: url(https://st2.depositphotos.com/1217569/5929/i/450/depositphotos_59290787-stock-photo-howling-wolf-spirit.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: rgb(255, 0, 0);
+  padding: 20px;
+  font-size: 25px;
+  font-family: 'Dancing Script', cursive;
+}
+.carta {
+   position: relative;
+   width: 150px;
+   left: 100px;
+   margin-left: -75px;
+}
+
+#jugador-cartas,
+#compuradora-carta {
+height: 240px;
+}
